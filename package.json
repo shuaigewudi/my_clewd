@@ -1,0 +1,45 @@
+{
+  "name": "clewd",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <a href=\"https://github.com/teralomaniac/clewd\"> <h1>Clewd</h1>   <img     height=\"120\"     width=\"120\"     alt=\"Clewd\"     title=\"Clewd\"     src=\"https://gitgud.io/ahsk/clewd/-/raw/master/media/logo.png\"     align=\"left\"   />",
+  "main": "clewd.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^4.3.0",
+    "axios": "^0.21.4",
+    "cliui": "^7.0.4",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "debug": "^4.3.2",
+    "emoji-regex": "^8.0.0",
+    "escalade": "^3.1.1",
+    "follow-redirects": "^1.15.2",
+    "get-caller-file": "^2.0.5",
+    "gpt-tokenizer": "^2.1.2",
+    "is-fullwidth-code-point": "^3.0.0",
+    "localtunnel": "^2.0.2",
+    "ms": "^2.1.2",
+    "node-bin-setup": "^1.1.3",
+    "openurl": "^1.1.1",
+    "require-directory": "^2.1.1",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "wrap-ansi": "^7.0.0",
+    "y18n": "^5.0.8",
+    "yargs": "^17.1.1",
+    "yargs-parser": "^20.2.9"
+  },
+  "devDependencies": {
+    "node": "^20.9.0",
+    "npm": "^10.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
